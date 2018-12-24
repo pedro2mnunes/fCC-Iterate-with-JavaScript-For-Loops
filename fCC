@@ -1,0 +1,14 @@
+var ourArray = [];
+
+for (var i = 0; i < 5; i++) {
+  ourArray.push(i);
+}
+
+// Setup
+var myArray = [];
+
+// Only change code below this line.
+var i=1;
+for (i; i<6; i++){
+  myArray.push(i);
+}
